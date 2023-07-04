@@ -1,4 +1,4 @@
-package com.example.jetpackcomposebasics
+package com.example.jetpackcomposebasics.textview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
